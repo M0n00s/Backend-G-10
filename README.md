@@ -1,7 +1,5 @@
 # E-commerce ShopBag - Backend
 
-# E-commerce ShopBag - Frontend
-
 Este repo representa el codigo Backend de un e-commerce, en donde los usuarios pueden comprar y vender productos, editarlos, agregarlos a lista de deseo, 
 carrito, realizar la compra por medio de la api de mercado pago. 
 
